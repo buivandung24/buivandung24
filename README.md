@@ -1,7 +1,6 @@
 - 👋 Hello. My name is Bui Van Dung.
-- I'm a student and I want to become a Unity Developer.
-- I’m interested in playing video games and listening to music
-- I’m currently learning at HUTECH University
+- I'm a student and I want to become a Developer.
+- I’m interested in listening to music and reading books
 
 <!---
 buivandung24/buivandung24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
